@@ -1,0 +1,8 @@
+# Project List 
+
+This is a short list of projects that I found cool enough for you to see as a showcase of what I've done so far. I tried to really focus the list on my more *exclusive* experiences and not bore you again with "*Yes I am very good at javascript and I know React and etc...*"
+
+- **Spectre and Meltdown**: Two very new and advanced hardware vulnerabilities identified in this year. They have a separate README file and a code folder (since I actually do not have the rights to publish this code on github --yet-- :D). I've crafted the codes to be a mini proof of concept for both attack. Both are very simple, programming-wise, but have drastic side-effects (and 100% safe to run --promise). 
+- [**node-xyz: A microservice microframework for node.js**](https://github.com/node-xyz): The idea is what I did as my [bachelor's thesis](https://www.sid.ir/En/Seminar/ViewPaper.aspx?ID=46083) and later on I (at least) tried to make a nice minimal npm framework out of it. The framework's architecture is highly inspired by Akka's actor model. 
+- [**Dragon Arena System: Simulation of a Distributed Gaming World**](https://github.com/Kianenigma/das): A simulation of very *simple game*, while having some very complex *Distributed* concepts (Scalability, Reliability, Availability, Load Balancing,  Byzantine Fault-Tolerance) implemented for the *Distributed Systems* course.
+- [**Heat-Dissipation: Multi-Code and Many-Core Programming Survey**](https://github.com/Kianenigma/pmms-heat-dissipation): Reference implementation, In-detail benchmark and analysis of a very common HPC task (High-Performance-Computing) using 4 different trends of parallel programming: Intel AVX, PThreads, OpenMP and CUDA.
