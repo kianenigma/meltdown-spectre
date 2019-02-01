@@ -137,3 +137,7 @@ Assume we first call `victim_function` a few tens of times with `*condition = tr
 - Now, we end up at the exact same configuration as if in Meltdown. We do NOT yet know what the leaked data is, but we know it is in cache, because the CPU was fooled to actually fetch it.
 
 # References+Links
+
+An earlier draft of this small documentation is available in the [meltdown-spectre.md](/meltdown-spectre) file. Other resources: 
+
+- TODO
